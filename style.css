@@ -1,0 +1,174 @@
+.Cmp_Name {
+    top: 68px;
+    left: 631px;
+    width: 528px;
+    height: 87px;
+    text-align: left;
+    font: normal normal 900 62px/93px Poppins;
+    letter-spacing: 0px;
+    color: #0054E4;
+    opacity: 1;
+}
+
+.bar {
+    top: 77px;
+    left: 171px;
+    width: 376px;
+    height: 78px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #0022F9;
+    border-radius: 50px;
+    opacity: 1;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+.bar h1{
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    cursor: pointer;
+    margin-top: -55px;
+    margin-left: -145px;
+    
+}
+
+.select_text {
+    top: 346px;
+    left: 595px;
+    width: 492px;
+    height: 226px;
+    text-align: center;
+    font: normal normal normal 84px/113px Abril Fatface;
+    letter-spacing: 0px;
+    color: #101010A8;
+    text-shadow: inset 0px 3px 6px #00000029;
+    opacity: 1;
+}
+
+.circule-1 {
+    top: 309px;
+    left: 171px;
+    width: 288px;
+    height: 288px;
+    background: #DBFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border-radius: 50%;
+    backdrop-filter: blur(7px);
+    -webkit-backdrop-filter: blur(7px);
+}
+
+.circule-2 {
+    top: 314px;
+    left: 178px;
+    width: 288px;
+    height: 289px;
+    background: #B900FF 0% 0% no-repeat padding-box;
+    opacity: 0.18;
+    border-radius: 50%;
+}
+
+.social {
+    top: 310px;
+    left: 1227px;
+    width: 103px;
+    height: 283px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 7px 16px 8px #0AD4FA29;
+    border: 0.25px solid #20D6D6;
+    border-radius: 30px;
+    opacity: 1;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+.fb {
+    width: 63px;
+    height: 63px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin: 20px;
+    
+}
+
+.inst {
+    width: 65px;
+    height: 65px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin: 20px;
+}
+
+.gmail {
+    width: 107px;
+    height: 107px;
+    background: transparent 0% 0% no-repeat padding-box;
+    mix-blend-mode: multiply;
+    opacity: 1;
+    margin: 1px;
+}
+
+.Home_Text {
+    top: 105px;
+    left: 219px;
+    width: 43px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Segoe UI;
+    letter-spacing: 0px;
+    color: #0017E4;
+    opacity: 1;
+}
+
+.Course_Text {
+    top: 105px;
+    left: 288px;
+    width: 55px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Segoe UI;
+    letter-spacing: 0px;
+    color: #0017E4;
+    opacity: 1;
+}
+
+.College_Text {
+    top: 105px;
+    left: 357px;
+    width: 68px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Segoe UI;
+    letter-spacing: 0px;
+    color: #0017E4;
+    opacity: 1;
+}
+
+.About_Text {
+    top: 106px;
+    left: 451px;
+    width: 48px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/20px Segoe UI;
+    letter-spacing: 0px;
+    color: #0017E4;
+    opacity: 1;
+}
+
+.container {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100vw;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
